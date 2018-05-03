@@ -1,11 +1,11 @@
-# PopClip 的YAPF扩展
+# PopClip 的prettier扩展
 
 ## 安装
 
 ```
 
-pip install yapf
+npm install -g prettier
 
-open popclip-yapf.popclipext
+open popclip-prettier.popclipext
 
 ```
